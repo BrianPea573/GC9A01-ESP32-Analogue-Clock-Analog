@@ -1,5 +1,5 @@
 
-![](sample.jpg)
+![Alt text](public/images/GC9A01_Analgue_Clock_GIF.gif)
 
 # Analogue Clock Display using a GC9A01 display attached to an ESP32
 
@@ -50,3 +50,6 @@ Below is how I connected the display unit ot he ESP32 although other mappings wo
 |   DC     |  GP2  |  DC    |             |
 |   RST    |  GP4  |  RST   |             |
 
+
+
+[def]: Sample.jpg

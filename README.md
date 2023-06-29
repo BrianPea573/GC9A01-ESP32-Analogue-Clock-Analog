@@ -1,7 +1,7 @@
 
 ![Alt text](Images/GC9A01_Analogue_Clock_GIF.gif)
 
-# Analogue Clock Display using a GC9A01 display attached to an ESP32
+# Analogue (Analog) Clock Display using a GC9A01 display attached to an ESP32
 
 ## What you will need:
 - ESP32 Board

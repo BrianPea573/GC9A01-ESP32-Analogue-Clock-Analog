@@ -1,5 +1,5 @@
 
-![Alt text](public/images/GC9A01_Analgue_Clock_GIF.gif)
+![Alt text](Images/GC9A01_Analogue_Clock_GIF.gif)
 
 # Analogue Clock Display using a GC9A01 display attached to an ESP32
 

@@ -13,10 +13,10 @@ Based on the following sketches:
    This sketch provides the code to get NTP Time.
 
 
-In Libraries/TFT_eSPI/User_Setup.h, enable GC9A01_DRIVER.
-In Libraries/TFT_eSPI/User_Setup_Select.h, enable <User_Setups/Setup46_GC9A01_ESP32.h>
+In Libraries\TFT_eSPI\User_Setup.h, enable GC9A01_DRIVER.
+In Libraries\TFT_eSPI\User_Setup_Select.h, enable <User_Setups/Setup46_GC9A01_ESP32.h>
 
-This is the setup used by this sketch as defined in Libraries/TFT_eSPI/User_Setups/Setup46_GC9A01_ESP32.h
+This is the setup used by this sketch as defined in libraries\TFT_eSPI\User_Setups\Setup46_GC9A01_ESP32.h
 
 #define USER_SETUP_ID 46
 

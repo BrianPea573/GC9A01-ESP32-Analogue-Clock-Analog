@@ -37,7 +37,11 @@ Search for 'ESP32' and install the software for this board
 1. It is possible to define the ESP32 pins further down in this file but this sketch defines the pin numbers, as detailed below, in C:\Users\your_username\Documents\Arduino\libraries\TFT_eSPI\User_Setups\Setup46_GC9A01_ESP32.h
 1. Edit file 'User_Setup_Select.h' and ensure the line with '#include <User_Setups/Setup46_GC9A01_ESP32.h>' is not commented out i.e. it is enabled.
 
-## STEP 4: Connecting GA9A01 display to ESP32
+## STEP 4: Configure NTP_Time.h File for local Timezone
+1. Download the files in this project.
+1. Edit NTP_Time.h, specifying your local timezone (around line #256), based on the Timezone reference definitions in the Settings section.
+
+## STEP 5: Connecting GA9A01 display to ESP32
 Below is how I connected the display unit to the ESP32 although other mappings would be valid, noting that some GPIO pins have restrictions:
 
 | TFT_eSPI | ESP32 | GC9A01 | Other Terms |

@@ -41,7 +41,10 @@ Search for 'ESP32' and install the software for this board
 1. Download the files in this project.
 1. Edit NTP_Time.h, specifying your local timezone (around line #256), based on the Timezone reference definitions in the Settings section.
 
-## STEP 5: Connecting GA9A01 display to ESP32
+## STEP 5: Customise GC9A01A_Clock_ESP32_Sprite_GitHub.ino
+1. Edit this file and enter your WiFi credentials (name and password)
+
+## STEP 6: Connecting GA9A01 display to ESP32
 Below is how I connected the display unit to the ESP32 although other mappings would be valid, noting that some GPIO pins have restrictions:
 
 | TFT_eSPI | ESP32 | GC9A01 | Other Terms |
